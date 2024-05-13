@@ -58,6 +58,6 @@
                'static/description/theme_screenshot.jpg'],
     'license': 'LGPL-3',
     'installable': True,
-    'auto_install': False,
-    'application': False
+    'auto_install': True,
+    'application': True
 }
